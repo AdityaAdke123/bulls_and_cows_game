@@ -62,7 +62,4 @@ Extend functionality, like adding a timer or scoring system.
 🌟 Contributing
 Feel free to contribute to this project! Fork the repository, create a feature branch, and submit a pull request.
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Enjoy breaking codes and solving the mystery! 🎉
